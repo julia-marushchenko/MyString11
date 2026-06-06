@@ -1,6 +1,7 @@
 /**
  *  Java program to demonstrate method indent() of String class.
  */
+
 package com.mystrings;
 
 /**
